@@ -8,7 +8,7 @@ An automation tool for developing front-end html skeleton by sketching a bluepri
 
 ## Getting the files
 ```
-git clone https://github.com/ashnkumar/sketch-code.git
+
 ```
 
 ## Choose an image or Sketch one.
